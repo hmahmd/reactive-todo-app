@@ -3,9 +3,8 @@
 A minimalist, highly responsive Task Management application built with React.js. This project features a corporate dashboard-style user interface designed to handle live dynamic data with real-time UI synchronization, ensuring proper state management and optimized rendering workflows.
 
 ![Project Dashboard] <p align="center">
-<img src="asset/img/to-do-list-dshboard-img.png" alt="Reactive Todo App Dashboard" width="100%" style="max-width: 650px; border-radius: 12px;" />
-
-## </p>
+  <img src="public/asset/img/to-do-list-dshboard-img.png" alt="Reactive Todo App Dashboard" width="100%" style="max-width: 650px; border-radius: 12px;" />
+</p>
 
 ## Technical Features
 
