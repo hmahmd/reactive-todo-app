@@ -1,3 +1,4 @@
+<img width="1471" height="704" alt="reactive-todo-app-img" src="https://github.com/user-attachments/assets/0d1dd10c-a99d-4753-83fb-351fbc82a673" />
 # Reactive Todo App
 
 A minimalist, highly responsive Task Management application built with React.js. This project features a corporate dashboard-style user interface designed to handle live dynamic data with real-time UI synchronization, ensuring proper state management and optimized rendering workflows.
