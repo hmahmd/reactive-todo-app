@@ -5,7 +5,7 @@ A minimalist, highly responsive Task Management application built with React.js.
 ![Project Dashboard] 
 
 <p align="center">
-  <img src="asset/img/reactive-todo-app-img.png" alt="Reactive Todo App Dashboard" width="100%" style="max-width: 650px; border-radius: 12px;" />
+  <img src="./public/asset/img/reactive-todo-app-img.png" alt="Reactive Todo App Dashboard" width="100%" style="max-width: 650px; border-radius: 12px;" />
 </p>
 
 ## Technical Features
