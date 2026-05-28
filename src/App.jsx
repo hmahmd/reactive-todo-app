@@ -17,7 +17,7 @@ const App = () => {
     const newObject = {
       id: Date.now(),
       text: inputVal
-    }
+    };
 
     setCardList([...cardList, newObject]);
     setInputVal('');
